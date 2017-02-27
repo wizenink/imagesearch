@@ -1,0 +1,23 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "Image search abstraction layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "search",
+    "abstraction",
+    "layer",
+    "json",
+    "rest"
+  ],
+  "author": "david.maseda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5"
+  }
+}
